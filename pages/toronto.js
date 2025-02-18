@@ -790,6 +790,8 @@ export default function Toronto() {
         >
           <Link href="https://hackclub.com">Hack Club</Link>{' '}
           <span sx={{ transform: 'scale(2)' }}>・</span>{' '}
+          <Link href="https://discord.gg/eMzU6vuZwj">Discord</Link>{' '}
+          <span sx={{ transform: 'scale(2)' }}>・</span>{' '}
           <Link href="https://hackclub.com/slack">Slack</Link>{' '}
           <span sx={{ transform: 'scale(2)' }}>・</span>{' '}
           <Link href="https://hackclub.com/clubs">Clubs</Link>{' '}
